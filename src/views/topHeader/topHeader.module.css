@@ -1,0 +1,32 @@
+ .trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+.trigger:hover {
+    color: #1890ff;
+  }
+  
+  
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+  .ant-layout-header{
+    background: #fff;
+  }
+  .personCenter{
+    background: #002140;
+    float: right;
+    width: 200px;
+    height: 100%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.65);
+  }
+  .personCenter:hover{
+    color: rgba(255, 255, 255,1);
+    transition: all 0.5s;
+    cursor: pointer;
+  }
